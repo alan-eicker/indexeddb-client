@@ -1,0 +1,22 @@
+{
+  "name": "@alan-eicker/indexeddb-client",
+  "version": "1.0.0",
+  "description": "A JavaScript Client for IndexedDB",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alan-eicker/indexeddb-client.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "keywords": [
+    "indexeddb",
+    "javascript"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
