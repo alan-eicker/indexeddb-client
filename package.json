@@ -1,6 +1,6 @@
 {
   "name": "@alan-eicker/indexeddb-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A JavaScript Client for IndexedDB",
   "repository": {
     "type": "git",
